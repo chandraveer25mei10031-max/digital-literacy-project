@@ -1,0 +1,16 @@
+ Task 3 Explore Coding & Collaboration Platform notes
+
+Task 3 – Part A (Coding Practice – HackerRank)-
+I created an account on HackerRank and explored beginner-level coding challenges.
+I solved the “Solve Me First” problem, which helped me understand basic input/output and logic building.
+The platform provides instant feedback, which helps in improving problem-solving skills.
+I earned a basic score/badge after completing the challenge.
+This activity improved my logical thinking and introduced me to coding practice environments.
+
+Task 3 – Part B (Google Form – Collaboration Tool).
+
+I created a Google Form with 5 questions for a Digital Literacy Awareness Quiz.
+The form included multiple-choice and short-answer questions.
+Responses were automatically collected in a linked Google Sheet, making data analysis easy.
+I shared the form link and took screenshots of both the form and response sheet.
+This tool is useful for conducting surveys, quizzes, and collecting data efficiently.
